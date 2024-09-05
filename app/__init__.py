@@ -28,7 +28,7 @@ def create_app(config_name=None):
     # Initialize extensions
     init_extensions(app)  # Commented out
     
-    CORS(app, resources={r"/*": {"origins": ["http://localhost:3000", "https://teacherop.com"]}})
+    CORS(app, resources={r"/*": {"origins": ["http://localhost:5000", "https://teacherop.com"]}})
     firebase_config.initialize_firebase()
     init_socketio(app)  # Initialize SocketIO
 
