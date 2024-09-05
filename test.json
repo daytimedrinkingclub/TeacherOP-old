@@ -1,0 +1,32 @@
+{
+    "modules": [
+        {
+            "module_name": "Main Module Name 1",
+            "module_description": "Description of Module 1",
+            "module_submodules": [
+                {
+                    "name": "Sub Module Name 1",
+                    "description": "Description of Sub Module 1"
+                },
+                {
+                    "name": "Sub Module Name 2",
+                    "description": "Description of Sub Module 2"
+                }
+            ]
+        },
+        {
+            "module_name": "Main Module Name 1",
+            "module_description": "Description of Module 1",
+            "module_submodules": [
+                {
+                    "name": "Sub Module Name 1",
+                    "description": "Description of Sub Module 1"
+                },
+                {
+                    "name": "Sub Module Name 2",
+                    "description": "Description of Sub Module 2"
+                }
+            ]
+        }
+    ]
+}

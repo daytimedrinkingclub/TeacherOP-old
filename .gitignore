@@ -1,0 +1,16 @@
+local_dev/
+app/__pycache__/
+*.pyc
+app/.env
+*.env
+.cursorignore
+run.py
+devenv/
+backend-bencher/app/Key.json
+test.py
+folderstructure.md
+app/.env.local
+myvenv/
+.env.local
+
+.idea
